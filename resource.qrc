@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>img/blue.jpeg</file>
+        <file>img/green.png</file>
+        <file>img/purple.jpeg</file>
+        <file>img/red.png</file>
+        <file>img/close.png</file>
+        <file>img/black.png</file>
+        <file>img/Orange.jpeg</file>
+        <file>img/sky.jpg</file>
+        <file>img/yellow.png</file>
+        <file>img/white.png</file>
+        <file>img/logo.png</file>
+        <file>img/steelseries_professional_gaming_gear.png</file>
+        <file>img/background_silk2.png</file>
+        <file>img/about-us.png</file>
+        <file>img/startupcommand.png</file>
+        <file>img/Pink-splash-on-transparent-background-PNG.png</file>
+    </qresource>
+</RCC>
